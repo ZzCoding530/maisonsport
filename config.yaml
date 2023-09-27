@@ -1,0 +1,17 @@
+mysql:
+  host: 43.136.15.31
+  port: 3306
+  username: bravo
+  password: Root6666
+  dbname: maisontennis
+
+redis:
+  host: localhost
+  port: 6379
+  password: your_redis_password (if applicable)
+  db: 0
+
+credentials:
+  secretID: AKIDCG6qLbfWAaljTyEGG3buKpFTpDTYZS8Z
+  secretKey: EE2d2HI7i4D9rMfkgS0KgpvnRsIYcXHr
+bucketURL: https://maisontennis-1304667505.cos.ap-shanghai.myqcloud.com

@@ -1,0 +1,102 @@
+{"level":"error","ts":"2023-09-01T00:08:15.843+0800","msg":"UserLoginHandler 反序列化失败"}
+{"level":"error","ts":"2023-09-01T00:09:04.007+0800","msg":"UserLoginHandler 反序列化失败"}
+{"level":"error","ts":"2023-09-01T00:09:21.812+0800","msg":"UserLoginHandler 反序列化失败"}
+{"level":"error","ts":"2023-09-01T00:11:48.271+0800","msg":"UserLoginHandler 反序列化失败"}
+{"level":"error","ts":"2023-09-01T00:13:27.988+0800","msg":"UserLoginHandler 反序列化失败"}
+{"level":"error","ts":"2023-09-01T00:14:06.773+0800","msg":"UserLoginHandler 反序列化失败"}
+{"level":"error","ts":"2023-09-09T17:57:47.780+0800","msg":"从数据库获取活动失败","error":"invalid field found for struct maisonsport/dao.ActivityWithUserInfo's field Activity: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"level":"error","ts":"2023-09-09T18:00:11.840+0800","msg":"从数据库获取活动失败","error":"Error 1054 (42S22): Unknown column 'activities.open_id' in 'field list'"}
+{"level":"error","ts":"2023-09-09T18:01:04.686+0800","msg":"从数据库获取活动失败","error":"Error 1054 (42S22): Unknown column 'activities.user_id' in 'field list'"}
+{"level":"error","ts":"2023-09-09T18:03:02.545+0800","msg":"从数据库获取活动失败","error":"Error 1146 (42S02): Table 'maisontennis.activity_with_user_infos' doesn't exist"}
+{"level":"error","ts":"2023-09-09T18:07:16.334+0800","msg":"从数据库获取活动失败","error":"Error 1146 (42S02): Table 'maisontennis.users' doesn't exist"}
+{"level":"error","ts":"2023-09-09T18:11:38.111+0800","msg":"从数据库获取活动失败","error":"Error 1146 (42S02): Table 'maisontennis.users' doesn't exist"}
+{"level":"error","ts":"2023-09-09T18:13:01.567+0800","msg":"从数据库获取活动失败","error":"Error 1146 (42S02): Table 'maisontennis.users' doesn't exist"}
+{"level":"error","ts":"2023-09-09T18:15:04.113+0800","msg":"从数据库获取活动失败","error":"Error 1146 (42S02): Table 'maisontennis.users' doesn't exist"}
+{"level":"error","ts":"2023-09-09T18:16:22.501+0800","msg":"从数据库获取活动失败","error":"Error 1267 (HY000): Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='"}
+{"level":"error","ts":"2023-09-11T14:45:29.154+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal string into Go struct field EditReq.age of type int"}
+{"level":"error","ts":"2023-09-11T14:48:20.497+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal string into Go struct field EditReq.age of type int"}
+{"level":"error","ts":"2023-09-11T14:49:19.974+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal string into Go struct field EditReq.region of type []string"}
+{"level":"error","ts":"2023-09-11T14:51:22.051+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal string into Go struct field EditReq.region of type []string"}
+{"level":"error","ts":"2023-09-11T17:24:27.119+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal string into Go struct field EditReq.age of type int"}
+{"level":"error","ts":"2023-09-11T17:28:29.850+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal string into Go struct field EditReq.level of type int"}
+{"level":"error","ts":"2023-09-12T15:35:58.591+0800","msg":"请求反序列化失败","error":"parsing time \"\\\"2023-09-13\\\"\" as \"\\\"2006-01-02T15:04:05Z07:00\\\"\": cannot parse \"\\\"\" as \"T\""}
+{"level":"error","ts":"2023-09-12T15:38:59.322+0800","msg":"请求反序列化失败","error":"parsing time \"\\\"2023-11-12\\\"\" as \"\\\"2006-01-02T15:04:05Z07:00\\\"\": cannot parse \"\\\"\" as \"T\""}
+{"level":"error","ts":"2023-09-12T15:43:59.579+0800","msg":"请求反序列化失败","error":"parsing time \"\\\"2023-10-12\\\"\" as \"\\\"2006-01-02T15:04:05Z07:00\\\"\": cannot parse \"\\\"\" as \"T\""}
+{"level":"error","ts":"2023-09-23T22:23:30.150+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:23:30.152+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:25:28.266+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:28:31.851+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:29:50.870+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:31:05.738+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:31:05.770+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:31:10.680+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:32:35.764+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:32:48.967+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:33:05.738+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:35:09.419+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:35:16.628+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:35:27.749+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:36:08.415+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:36:08.422+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:36:09.048+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:36:26.828+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:38:27.345+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:38:27.346+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:38:28.140+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:39:18.441+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:39:18.441+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:39:19.844+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:40:00.680+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:40:00.681+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:40:07.152+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:40:07.157+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:41:48.092+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:41:48.094+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:43:16.615+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:45:58.651+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:46:02.383+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:46:02.383+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:46:04.569+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:47:45.005+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:48:45.434+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:49:11.294+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:49:19.419+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:49:34.317+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:51:14.655+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:51:24.712+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:52:33.044+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:52:57.288+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:53:09.387+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:53:12.725+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:56:13.366+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:57:22.306+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:57:44.152+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:57:56.540+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:58:24.347+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:59:50.038+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T23:00:17.052+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T23:00:20.288+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T23:01:13.395+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T23:02:29.412+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T23:02:32.676+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T23:02:51.864+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T23:03:04.865+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T23:04:00.281+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T23:24:26.378+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal number into Go struct field EditReq.level of type string"}
+{"level":"error","ts":"2023-09-23T23:25:46.129+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal number into Go struct field EditReq.level of type string"}
+{"level":"error","ts":"2023-09-23T23:28:29.204+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal number into Go struct field EditReq.level of type string"}
+{"level":"error","ts":"2023-09-23T23:31:42.736+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal number into Go struct field EditReq.level of type string"}
+{"level":"error","ts":"2023-09-23T23:31:51.463+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal number into Go struct field EditReq.level of type string"}
+{"level":"error","ts":"2023-09-23T23:32:34.025+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal number into Go struct field EditReq.level of type string"}
+{"level":"error","ts":"2023-09-25T00:19:38.424+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"error","ts":"2023-09-25T00:19:38.427+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"error","ts":"2023-09-25T00:21:20.654+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"error","ts":"2023-09-25T00:21:20.657+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"error","ts":"2023-09-25T00:21:32.216+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"error","ts":"2023-09-25T00:21:32.216+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"error","ts":"2023-09-25T00:32:05.724+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"error","ts":"2023-09-25T00:32:05.724+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"error","ts":"2023-09-25T00:54:03.195+0800","msg":"UserLoginHandler 反序列化失败","err":"parsing time \"\\\"\\\"\" as \"\\\"2006-01-02T15:04:05Z07:00\\\"\": cannot parse \"\\\"\" as \"2006\""}
+{"level":"error","ts":"2023-09-25T00:56:43.412+0800","msg":"UserLoginHandler 反序列化失败","err":"parsing time \"\\\"\\\"\" as \"\\\"2006-01-02T15:04:05Z07:00\\\"\": cannot parse \"\\\"\" as \"2006\""}
+{"level":"error","ts":"2023-09-25T21:53:17.716+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"error","ts":"2023-09-25T21:53:17.717+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}

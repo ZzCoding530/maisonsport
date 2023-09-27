@@ -1,0 +1,618 @@
+{"level":"info","ts":"2023-08-31T18:24:49.687+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T18:24:49.690+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-08-31T18:27:20.987+0800","msg":"收到了前端发来的code","code":"0c3GSc1w3mEai1345E2w35WiK04GSc1O"}
+{"level":"info","ts":"2023-08-31T18:27:21.236+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"o2PX_5NqKJz-1JPY-B5XQFTVjPFw","session_key":"UVMV2OZNtI+sfze4kW3ivA==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T18:48:03.869+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T18:48:03.873+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-08-31T18:48:11.704+0800","msg":"收到了前端发来的code","code":"0e3Xiz100IA9DQ1sCG3008IVq13Xiz15"}
+{"level":"info","ts":"2023-08-31T18:48:11.939+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"o2PX_5NqKJz-1JPY-B5XQFTVjPFw","session_key":"7qOZLer5UcekAxUo1LGuTQ==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T18:48:11.942+0800","msg":"已经成功向 user 和 token 表中写入"}
+{"level":"info","ts":"2023-08-31T18:49:21.930+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T18:49:50.826+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T18:49:50.829+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-08-31T18:49:54.073+0800","msg":"收到了前端发来的code","code":"0f3jgK000c7jCQ1s4k3004wyjB2jgK0n"}
+{"level":"info","ts":"2023-08-31T18:49:54.317+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"o2PX_5NqKJz-1JPY-B5XQFTVjPFw","session_key":"7qOZLer5UcekAxUo1LGuTQ==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T18:51:40.273+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T18:51:40.275+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-08-31T18:51:48.512+0800","msg":"收到了前端发来的code","code":"0f3Cwz100kn8DQ1Ud0100z7gmK2Cwz1m"}
+{"level":"info","ts":"2023-08-31T18:51:48.790+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"o2PX_5NqKJz-1JPY-B5XQFTVjPFw","session_key":"CmWRLi3dvb1hiM1q+OvXcQ==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T18:58:02.616+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T18:58:02.620+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-08-31T18:58:09.026+0800","msg":"收到了前端发来的code","code":"0d3rFc000PnLBQ1oq1400aaeT60rFc04"}
+{"level":"info","ts":"2023-08-31T18:58:09.263+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"o2PX_5NqKJz-1JPY-B5XQFTVjPFw","session_key":"8x/ffxokC8ABCwl96h2rcg==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T19:02:32.776+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T19:02:32.779+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-08-31T19:02:39.097+0800","msg":"收到了前端发来的code","code":"0f33WG0w3nXAh13AKh3w3K3elI03WG0I"}
+{"level":"info","ts":"2023-08-31T19:02:39.400+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"o2PX_5NqKJz-1JPY-B5XQFTVjPFw","session_key":"hb2oAp00aGTtkFnMKnK5WA==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T19:04:02.529+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T19:04:02.532+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-08-31T19:04:08.297+0800","msg":"收到了前端发来的code","code":"0f3K7f1w3mZ8i13xOB1w3b4kZX2K7f1X"}
+{"level":"info","ts":"2023-08-31T19:04:08.545+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"o2PX_5NqKJz-1JPY-B5XQFTVjPFw","session_key":"hb2oAp00aGTtkFnMKnK5WA==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T19:04:46.706+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T19:04:46.714+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-08-31T19:04:53.155+0800","msg":"收到了前端发来的code","code":"0a3XaL000a6iCQ15Ey0000S4JV2XaL0x"}
+{"level":"info","ts":"2023-08-31T19:04:53.404+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"o2PX_5NqKJz-1JPY-B5XQFTVjPFw","session_key":"aflYO5gwYveXIo7PfF6Q4Q==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T19:08:54.707+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T19:08:54.709+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-08-31T19:29:12.828+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T19:29:12.831+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-08-31T19:29:19.077+0800","msg":"收到了前端发来的code","code":"0c3nLk100ZPOCQ1quK200QFHy74nLk1i"}
+{"level":"info","ts":"2023-08-31T19:29:19.323+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"o2PX_5NqKJz-1JPY-B5XQFTVjPFw","session_key":"zoOt6Q1cf7ZjFIZSv4eGVA==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T19:30:26.717+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T19:30:26.720+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-08-31T19:30:32.020+0800","msg":"收到了前端发来的code","code":"0c3QDe000ByIBQ1dHD3001ImYL3QDe0R"}
+{"level":"info","ts":"2023-08-31T19:30:32.255+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"o2PX_5NqKJz-1JPY-B5XQFTVjPFw","session_key":"zoOt6Q1cf7ZjFIZSv4eGVA==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T19:34:04.084+0800","msg":"收到了前端发来的code","code":"0b3PinGa1gEeXF03eTIa1ix9IY1PinGX"}
+{"level":"info","ts":"2023-08-31T19:34:04.304+0800","msg":"微信公开接口返回了错误","ErrorCode":40029,"ErrMsg":"invalid code, rid: 64f07aac-6182bd74-1e641e51"}
+{"level":"info","ts":"2023-08-31T19:36:34.058+0800","msg":"收到了前端发来的code","code":"0b3dmPFa1wMFWF0QJuJa1yA88D1dmPFV"}
+{"level":"info","ts":"2023-08-31T19:36:34.271+0800","msg":"微信公开接口返回了错误","ErrorCode":40029,"ErrMsg":"invalid code, rid: 64f07b42-5dfef517-44b1ad0f"}
+{"level":"info","ts":"2023-08-31T19:39:30.602+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T19:39:30.605+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-08-31T19:39:50.252+0800","msg":"收到了前端发来的code","code":"0b3Ff01w3pmQh13Q0r0w3Sp8z23Ff01K"}
+{"level":"info","ts":"2023-08-31T19:39:50.489+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"EvNdJBjMp1GFakkCyRrqyg==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T19:40:16.556+0800","msg":"收到了前端发来的code","code":"0b3ony1w3Cuoi13afG0w3pqqnt2ony1U"}
+{"level":"info","ts":"2023-08-31T19:40:16.798+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"EvNdJBjMp1GFakkCyRrqyg==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T19:41:18.509+0800","msg":"收到了前端发来的code","code":"0c3iTcHa1C03YF0elbGa1nsl4u1iTcHi"}
+{"level":"info","ts":"2023-08-31T19:41:18.745+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"EvNdJBjMp1GFakkCyRrqyg==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T19:43:32.817+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T19:43:32.819+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-08-31T19:43:59.091+0800","msg":"收到了前端发来的code","code":"0e3tH62w3LjWi13Idr2w3GfjV53tH62w"}
+{"level":"info","ts":"2023-08-31T19:43:59.358+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"mO8N58jX2D1H7I1Ih33nbw==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T19:44:21.160+0800","msg":"收到了前端发来的code","code":"0f3HtJ0w3G7zh13nuX0w3GYAT60HtJ0U"}
+{"level":"info","ts":"2023-08-31T19:44:21.370+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"mO8N58jX2D1H7I1Ih33nbw==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T19:49:28.563+0800","msg":"收到了前端发来的code","code":"0a3wTN000CGfCQ1pF7100lWMf32wTN0j"}
+{"level":"info","ts":"2023-08-31T19:49:28.826+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"ebYF7cFIqndW8eZ7+zwpAA==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T19:50:59.711+0800","msg":"收到了前端发来的code","code":"0c3MPs0w3BIhh13pOd2w3nzj7D1MPs0k"}
+{"level":"info","ts":"2023-08-31T19:50:59.946+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"ebYF7cFIqndW8eZ7+zwpAA==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T19:51:06.770+0800","msg":"收到了前端发来的code","code":"0a3ETf000AmHBQ1YOS2009MWTM0ETf0F"}
+{"level":"info","ts":"2023-08-31T19:51:06.946+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"ebYF7cFIqndW8eZ7+zwpAA==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T20:01:07.988+0800","msg":"收到了前端发来的code","code":"0e34pc0w3VYYg13njF3w3XnuDq14pc0c"}
+{"level":"info","ts":"2023-08-31T20:01:08.225+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"5IUneEc81jmsGsPA5x9z4Q==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T20:02:30.259+0800","msg":"收到了前端发来的code","code":"0d3LGO000ZSdCQ1Tcf000smNp64LGO0Z"}
+{"level":"info","ts":"2023-08-31T20:02:30.487+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"5IUneEc81jmsGsPA5x9z4Q==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T20:02:34.770+0800","msg":"收到了前端发来的code","code":"0f3BAK0w3pbxh132m13w362ARl3BAK0l"}
+{"level":"info","ts":"2023-08-31T20:02:34.991+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"5IUneEc81jmsGsPA5x9z4Q==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T20:04:35.191+0800","msg":"收到了前端发来的code","code":"0d3eL11w3voOh13zuw0w3NDitY3eL11x"}
+{"level":"info","ts":"2023-08-31T20:04:35.437+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"ugZnsJSHA3bqrjw11qqoUw==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T20:04:37.098+0800","msg":"收到了前端发来的code","code":"0b3JLx000wZWBQ1a7p000WTEqC2JLx0I"}
+{"level":"info","ts":"2023-08-31T20:04:37.296+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"ugZnsJSHA3bqrjw11qqoUw==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T20:05:26.016+0800","msg":"收到了前端发来的code","code":"0a3SU5100J1vCQ17KI300humCU2SU51k"}
+{"level":"info","ts":"2023-08-31T20:05:26.286+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"ugZnsJSHA3bqrjw11qqoUw==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-08-31T20:07:18.098+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T20:07:18.100+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-08-31T21:37:52.828+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T21:37:52.831+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-08-31T22:15:21.517+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-08-31T22:15:21.520+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-01T00:07:30.931+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-01T00:07:30.933+0800","msg":"DB初始化成功"}
+{"level":"error","ts":"2023-09-01T00:08:15.843+0800","msg":"UserLoginHandler 反序列化失败"}
+{"level":"info","ts":"2023-09-01T00:09:01.324+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-01T00:09:01.327+0800","msg":"DB初始化成功"}
+{"level":"error","ts":"2023-09-01T00:09:04.007+0800","msg":"UserLoginHandler 反序列化失败"}
+{"level":"info","ts":"2023-09-01T00:09:19.913+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-01T00:09:19.915+0800","msg":"DB初始化成功"}
+{"level":"error","ts":"2023-09-01T00:09:21.812+0800","msg":"UserLoginHandler 反序列化失败"}
+{"level":"info","ts":"2023-09-01T00:11:30.017+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-01T00:11:30.020+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-01T00:11:43.277+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-01T00:11:43.279+0800","msg":"DB初始化成功"}
+{"level":"error","ts":"2023-09-01T00:11:48.271+0800","msg":"UserLoginHandler 反序列化失败"}
+{"level":"error","ts":"2023-09-01T00:13:27.988+0800","msg":"UserLoginHandler 反序列化失败"}
+{"level":"info","ts":"2023-09-01T00:14:04.724+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-01T00:14:04.726+0800","msg":"DB初始化成功"}
+{"level":"error","ts":"2023-09-01T00:14:06.773+0800","msg":"UserLoginHandler 反序列化失败"}
+{"level":"info","ts":"2023-09-01T00:39:36.691+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-01T00:39:36.693+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-01T01:19:38.521+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-01T01:19:38.523+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-01T01:23:05.498+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-01T01:23:05.500+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-08T16:45:22.030+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-08T16:45:22.032+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-08T16:49:09.283+0800","msg":"收到创建活动的请求"}
+{"level":"info","ts":"2023-09-08T16:49:09.286+0800","msg":"活动创建成功"}
+{"level":"info","ts":"2023-09-08T16:49:23.839+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-08T16:49:23.840+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-08T16:49:47.113+0800","msg":"收到按用户ID查询活动的请求"}
+{"level":"info","ts":"2023-09-08T16:49:47.116+0800","msg":"成功获取按用户ID查询的活动信息"}
+{"level":"info","ts":"2023-09-08T16:49:54.772+0800","msg":"收到删除活动的请求"}
+{"level":"info","ts":"2023-09-08T16:49:54.775+0800","msg":"成功删除活动"}
+{"level":"info","ts":"2023-09-08T16:50:02.032+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-08T16:50:02.033+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-08T17:52:19.548+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-08T17:52:19.550+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-08T17:52:32.998+0800","msg":"收到按用户ID查询活动的请求"}
+{"level":"info","ts":"2023-09-08T17:52:33.001+0800","msg":"成功获取按用户ID查询的活动信息"}
+{"level":"info","ts":"2023-09-08T17:52:54.924+0800","msg":"收到按用户ID查询活动的请求"}
+{"level":"info","ts":"2023-09-08T17:52:54.926+0800","msg":"成功获取按用户ID查询的活动信息"}
+{"level":"info","ts":"2023-09-09T16:59:39.455+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T16:59:39.459+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T16:59:46.928+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T16:59:46.932+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:14:01.775+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:14:01.778+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:27:45.244+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:27:45.248+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:28:13.076+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:28:13.080+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:28:16.823+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:28:16.826+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:29:31.381+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:29:31.383+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:29:41.778+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:29:41.781+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:29:50.340+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:29:50.344+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:30:01.188+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:30:01.192+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:30:04.920+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:30:04.923+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:30:12.516+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:30:12.518+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:47:43.938+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:47:43.941+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:49:01.278+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T17:49:01.281+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T17:49:13.873+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:49:13.875+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:50:17.568+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T17:50:17.570+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T17:50:22.277+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:50:22.280+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:51:34.767+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T17:51:34.770+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T17:51:38.543+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:51:38.546+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:52:04.851+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T17:52:04.854+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T17:52:08.499+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:52:08.502+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:52:59.403+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T17:52:59.405+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T17:53:04.141+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:53:04.146+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:53:35.691+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T17:53:35.693+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T17:53:40.749+0800","msg":"收到获取所有活动的请求"}
+{"level":"info","ts":"2023-09-09T17:53:40.754+0800","msg":"成功获取活动信息"}
+{"level":"info","ts":"2023-09-09T17:57:43.754+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T17:57:43.757+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T17:57:47.780+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"error","ts":"2023-09-09T17:57:47.780+0800","msg":"从数据库获取活动失败","error":"invalid field found for struct maisonsport/dao.ActivityWithUserInfo's field Activity: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"level":"info","ts":"2023-09-09T18:00:07.180+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T18:00:07.183+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T18:00:11.838+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"error","ts":"2023-09-09T18:00:11.840+0800","msg":"从数据库获取活动失败","error":"Error 1054 (42S22): Unknown column 'activities.open_id' in 'field list'"}
+{"level":"info","ts":"2023-09-09T18:00:59.676+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T18:00:59.681+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T18:01:04.684+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"error","ts":"2023-09-09T18:01:04.686+0800","msg":"从数据库获取活动失败","error":"Error 1054 (42S22): Unknown column 'activities.user_id' in 'field list'"}
+{"level":"info","ts":"2023-09-09T18:02:59.459+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T18:02:59.461+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T18:03:02.544+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"error","ts":"2023-09-09T18:03:02.545+0800","msg":"从数据库获取活动失败","error":"Error 1146 (42S02): Table 'maisontennis.activity_with_user_infos' doesn't exist"}
+{"level":"info","ts":"2023-09-09T18:07:12.564+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T18:07:12.567+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T18:07:16.332+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"error","ts":"2023-09-09T18:07:16.334+0800","msg":"从数据库获取活动失败","error":"Error 1146 (42S02): Table 'maisontennis.users' doesn't exist"}
+{"level":"info","ts":"2023-09-09T18:11:33.674+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T18:11:33.676+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T18:11:38.110+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"error","ts":"2023-09-09T18:11:38.111+0800","msg":"从数据库获取活动失败","error":"Error 1146 (42S02): Table 'maisontennis.users' doesn't exist"}
+{"level":"info","ts":"2023-09-09T18:12:56.313+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T18:12:56.316+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T18:13:01.566+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"error","ts":"2023-09-09T18:13:01.567+0800","msg":"从数据库获取活动失败","error":"Error 1146 (42S02): Table 'maisontennis.users' doesn't exist"}
+{"level":"info","ts":"2023-09-09T18:14:59.198+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T18:14:59.201+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T18:15:04.111+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"error","ts":"2023-09-09T18:15:04.113+0800","msg":"从数据库获取活动失败","error":"Error 1146 (42S02): Table 'maisontennis.users' doesn't exist"}
+{"level":"info","ts":"2023-09-09T18:16:16.710+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T18:16:16.713+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T18:16:22.499+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"error","ts":"2023-09-09T18:16:22.501+0800","msg":"从数据库获取活动失败","error":"Error 1267 (HY000): Illegal mix of collations (utf8mb4_general_ci,IMPLICIT) and (utf8mb4_unicode_ci,IMPLICIT) for operation '='"}
+{"level":"info","ts":"2023-09-09T18:17:54.942+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-09T18:17:54.947+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-09T18:22:17.842+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-09T18:22:17.846+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-09T18:52:46.204+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-09T18:52:46.209+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-09T18:54:04.071+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-09T18:54:04.075+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-09T18:54:45.931+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-09T18:54:45.935+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-09T18:54:48.251+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-09T18:54:48.255+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-09T18:55:07.830+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-09T18:55:07.834+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-09T19:06:38.595+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-09T19:06:38.598+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-09T19:08:15.158+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-09T19:08:15.162+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-09T19:16:33.889+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-09T19:16:33.894+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-09T19:17:06.276+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-09T19:17:06.282+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-09T20:58:01.702+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-09T20:58:01.707+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-09T21:08:50.031+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T21:08:50.034+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T22:59:41.354+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-09T22:59:41.359+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-09T23:29:15.769+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-09T23:29:15.771+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-09T23:29:18.125+0800","msg":"收到按openID查询活动的请求"}
+{"level":"info","ts":"2023-09-09T23:29:18.128+0800","msg":"成功获取按openID查询的活动信息"}
+{"level":"info","ts":"2023-09-09T23:44:32.869+0800","msg":"收到按openID查询活动的请求"}
+{"level":"info","ts":"2023-09-09T23:44:32.873+0800","msg":"成功获取按openID查询的活动信息"}
+{"level":"info","ts":"2023-09-09T23:46:59.420+0800","msg":"收到按openID查询活动的请求"}
+{"level":"info","ts":"2023-09-09T23:46:59.422+0800","msg":"成功获取按openID查询的活动信息"}
+{"level":"info","ts":"2023-09-09T23:47:17.172+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-09T23:47:17.176+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-09T23:47:24.401+0800","msg":"收到按openID查询活动的请求"}
+{"level":"info","ts":"2023-09-09T23:47:24.404+0800","msg":"成功获取按openID查询的活动信息"}
+{"level":"info","ts":"2023-09-09T23:49:11.100+0800","msg":"收到按openID查询活动的请求"}
+{"level":"info","ts":"2023-09-09T23:49:11.103+0800","msg":"成功获取按openID查询的活动信息"}
+{"level":"info","ts":"2023-09-10T00:21:17.183+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-10T00:21:17.188+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-10T00:21:20.522+0800","msg":"收到按openID查询活动的请求"}
+{"level":"info","ts":"2023-09-10T00:21:20.526+0800","msg":"成功获取按openID查询的活动信息"}
+{"level":"info","ts":"2023-09-10T00:49:38.163+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-10T00:49:38.168+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-10T09:50:32.769+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-10T09:50:32.773+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-11T14:17:35.096+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-11T14:17:35.098+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-11T14:17:59.707+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-11T14:17:59.709+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-11T14:20:44.523+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-11T14:20:44.527+0800","msg":"成功获取活动和用户信息"}
+{"level":"error","ts":"2023-09-11T14:45:29.154+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal string into Go struct field EditReq.age of type int"}
+{"level":"error","ts":"2023-09-11T14:48:20.497+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal string into Go struct field EditReq.age of type int"}
+{"level":"error","ts":"2023-09-11T14:49:19.974+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal string into Go struct field EditReq.region of type []string"}
+{"level":"error","ts":"2023-09-11T14:51:22.051+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal string into Go struct field EditReq.region of type []string"}
+{"level":"info","ts":"2023-09-11T14:56:41.539+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-11T14:56:41.544+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-11T15:08:00.567+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-11T15:08:00.571+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-11T15:19:19.227+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-11T15:19:19.232+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-11T15:19:22.142+0800","msg":"收到按openID查询活动的请求"}
+{"level":"info","ts":"2023-09-11T15:19:22.146+0800","msg":"成功获取按openID查询的活动信息"}
+{"level":"info","ts":"2023-09-11T16:42:52.817+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-11T16:42:52.819+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-11T17:00:09.347+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-11T17:00:09.349+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-11T17:15:36.480+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-11T17:15:36.482+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-11T17:17:08.136+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-11T17:17:08.140+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-11T17:19:10.448+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-11T17:19:10.451+0800","msg":"DB初始化成功"}
+{"level":"error","ts":"2023-09-11T17:24:27.119+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal string into Go struct field EditReq.age of type int"}
+{"level":"info","ts":"2023-09-11T17:28:06.991+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-11T17:28:06.995+0800","msg":"DB初始化成功"}
+{"level":"error","ts":"2023-09-11T17:28:29.850+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal string into Go struct field EditReq.level of type int"}
+{"level":"info","ts":"2023-09-11T17:31:42.670+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-11T17:31:42.673+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T14:02:57.461+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T14:02:57.465+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T15:28:48.863+0800","msg":"收到创建活动的请求"}
+{"level":"info","ts":"2023-09-12T15:31:49.380+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T15:31:49.384+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T15:31:55.436+0800","msg":"收到创建活动的请求"}
+{"level":"info","ts":"2023-09-12T15:35:31.874+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T15:35:31.877+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T15:35:58.591+0800","msg":"收到创建活动的请求"}
+{"level":"error","ts":"2023-09-12T15:35:58.591+0800","msg":"请求反序列化失败","error":"parsing time \"\\\"2023-09-13\\\"\" as \"\\\"2006-01-02T15:04:05Z07:00\\\"\": cannot parse \"\\\"\" as \"T\""}
+{"level":"info","ts":"2023-09-12T15:38:59.322+0800","msg":"收到创建活动的请求"}
+{"level":"error","ts":"2023-09-12T15:38:59.322+0800","msg":"请求反序列化失败","error":"parsing time \"\\\"2023-11-12\\\"\" as \"\\\"2006-01-02T15:04:05Z07:00\\\"\": cannot parse \"\\\"\" as \"T\""}
+{"level":"info","ts":"2023-09-12T15:43:59.579+0800","msg":"收到创建活动的请求"}
+{"level":"error","ts":"2023-09-12T15:43:59.579+0800","msg":"请求反序列化失败","error":"parsing time \"\\\"2023-10-12\\\"\" as \"\\\"2006-01-02T15:04:05Z07:00\\\"\": cannot parse \"\\\"\" as \"T\""}
+{"level":"info","ts":"2023-09-12T15:52:29.300+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T15:52:29.303+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T15:57:30.451+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T15:57:30.454+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T16:00:39.718+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T16:00:39.721+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T16:03:19.028+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T16:03:19.031+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T16:05:03.841+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T16:05:03.844+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T16:06:07.149+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T16:06:07.152+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T16:15:31.567+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T16:15:31.570+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T16:19:10.980+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T16:19:10.982+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T16:25:08.991+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T16:25:08.994+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T16:25:49.053+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T16:25:49.055+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T16:26:15.630+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T16:26:15.633+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T16:27:46.607+0800","msg":"收到按openID查询活动的请求"}
+{"level":"info","ts":"2023-09-12T16:27:46.610+0800","msg":"成功获取按openID查询的活动信息"}
+{"level":"info","ts":"2023-09-12T18:55:39.930+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T18:55:39.933+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-12T23:44:58.574+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-12T23:44:58.576+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-13T00:54:39.174+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-13T00:54:39.178+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-23T18:00:36.916+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-23T18:00:36.968+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-23T21:02:23.989+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-23T21:02:23.992+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-23T21:02:23.994+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-23T21:04:27.337+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-23T21:04:27.339+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-23T21:04:27.341+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-23T21:29:47.364+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-23T21:29:47.367+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-23T21:29:47.368+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-23T21:30:04.764+0800","msg":"收到了前端发来的code","code":"0f3FGi100lCMIQ12lG300T6Scn1FGi1i"}
+{"level":"info","ts":"2023-09-23T21:30:05.040+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"bI1tDJvEIZXF2IoniN3Nag==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-23T21:30:53.184+0800","msg":"收到了前端发来的code","code":"0b3KMz100RJ3JQ1V4g100Iixtd2KMz1w"}
+{"level":"info","ts":"2023-09-23T21:30:53.428+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"bI1tDJvEIZXF2IoniN3Nag==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-23T21:31:08.312+0800","msg":"收到了前端发来的code","code":"0f3FKi100vDMIQ1qGW100d10ih3FKi1k"}
+{"level":"info","ts":"2023-09-23T21:31:08.519+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"bI1tDJvEIZXF2IoniN3Nag==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-23T21:31:16.942+0800","msg":"收到了前端发来的code","code":"0e37Ct000zS9KQ1s0D300NIm3517Ct0M"}
+{"level":"info","ts":"2023-09-23T21:31:17.159+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"bI1tDJvEIZXF2IoniN3Nag==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-23T21:31:30.627+0800","msg":"收到了前端发来的code","code":"0c3EIv1w3a0no13mSG3w3Iv7b90EIv1z"}
+{"level":"info","ts":"2023-09-23T21:31:30.829+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"bI1tDJvEIZXF2IoniN3Nag==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-23T21:31:53.306+0800","msg":"收到了前端发来的code","code":"0b31EX0w3UcVo13RdXZv3vKWWu31EX0Q"}
+{"level":"info","ts":"2023-09-23T21:31:53.539+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"Lt0jnytG8N3FPWidRNRdlw==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-23T21:32:12.442+0800","msg":"收到了前端发来的code","code":"0a3ACc000QUSJQ1a5C100I3GuJ0ACc0D"}
+{"level":"info","ts":"2023-09-23T21:32:12.635+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"Lt0jnytG8N3FPWidRNRdlw==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-23T21:32:22.463+0800","msg":"收到了前端发来的code","code":"0c3rY7200vFvIQ1OqC000JoTyG1rY72E"}
+{"level":"info","ts":"2023-09-23T21:32:22.670+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"Lt0jnytG8N3FPWidRNRdlw==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-23T21:32:35.318+0800","msg":"收到了前端发来的code","code":"0c31Ec000MTSJQ1EtX000bKMfJ21Ec0z"}
+{"level":"info","ts":"2023-09-23T21:32:35.509+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"Lt0jnytG8N3FPWidRNRdlw==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-23T21:36:58.563+0800","msg":"收到了前端发来的code","code":"0b39gNFa1HEN4G0VC3Ha1X4KX539gNFU"}
+{"level":"info","ts":"2023-09-23T21:36:58.808+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"HZfI/XjpwGSAU06rKqP9LQ==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-23T21:38:02.841+0800","msg":"收到了前端发来的code","code":"0f3OdA1006O0JQ19yS300GisuE4OdA1t"}
+{"level":"info","ts":"2023-09-23T21:38:03.077+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"HZfI/XjpwGSAU06rKqP9LQ==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-23T21:50:05.612+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-23T21:50:05.616+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-23T21:50:05.619+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-23T21:50:09.383+0800","msg":"收到了前端发来的code","code":"0d3sLu000pt6KQ1VrC100QUdp64sLu0g"}
+{"level":"info","ts":"2023-09-23T21:50:09.639+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"rzvLyd6Nkj4pLbo1pdktSQ==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-23T21:54:49.160+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-23T21:54:49.163+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-23T21:54:49.164+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-23T21:55:00.778+0800","msg":"收到了前端发来的code","code":"0c3xcO1w35gwn13Itn3w3XqcVi4xcO1j"}
+{"level":"info","ts":"2023-09-23T21:55:01.032+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"XwCd+mtSNjBVWfpcTYGB5w==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-23T21:57:30.479+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-23T21:57:30.482+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-23T21:57:30.484+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-23T22:23:29.896+0800","msg":"收到了前端发来的code","code":"0c35KJ0w3A4Ao13C6X3w3rCNnq35KJ0s"}
+{"level":"info","ts":"2023-09-23T22:23:30.145+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"ah5uqEGYQvzAO6odiwJj4Q==","errcode":0,"errmsg":""}}
+{"level":"error","ts":"2023-09-23T22:23:30.150+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:23:30.152+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"info","ts":"2023-09-23T22:25:17.748+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-23T22:25:17.753+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-23T22:25:17.755+0800","msg":"Redis初始化成功"}
+{"level":"error","ts":"2023-09-23T22:25:28.266+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:28:31.851+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:29:50.870+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"info","ts":"2023-09-23T22:29:57.037+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-23T22:29:57.039+0800","msg":"成功获取活动和用户信息"}
+{"level":"error","ts":"2023-09-23T22:31:05.738+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:31:05.770+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:31:10.680+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:32:35.764+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:32:48.967+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:33:05.738+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:35:09.419+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:35:16.628+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:35:27.749+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"info","ts":"2023-09-23T22:36:08.123+0800","msg":"收到了前端发来的code","code":"0f3Pst0w3tDop13Oef0w3HNAsT2Pst0Q"}
+{"level":"info","ts":"2023-09-23T22:36:08.410+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"Dx+k0rW0ppTL2IIWs/+xww==","errcode":0,"errmsg":""}}
+{"level":"error","ts":"2023-09-23T22:36:08.415+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:36:08.422+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:36:09.048+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:36:26.828+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"info","ts":"2023-09-23T22:38:27.119+0800","msg":"收到了前端发来的code","code":"0c3GKi1w3pu0o13q351w3YMpXG2GKi1j"}
+{"level":"info","ts":"2023-09-23T22:38:27.340+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"hbPhhEiw2F/qa0UooiAIKA==","errcode":0,"errmsg":""}}
+{"level":"error","ts":"2023-09-23T22:38:27.345+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:38:27.346+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:38:28.140+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"info","ts":"2023-09-23T22:39:18.212+0800","msg":"收到了前端发来的code","code":"0f3L3RFa1T8L4G0yqnGa1Pe1lS2L3RFn"}
+{"level":"info","ts":"2023-09-23T22:39:18.435+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"hbPhhEiw2F/qa0UooiAIKA==","errcode":0,"errmsg":""}}
+{"level":"error","ts":"2023-09-23T22:39:18.441+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:39:18.441+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:39:19.844+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"info","ts":"2023-09-23T22:40:00.475+0800","msg":"收到了前端发来的code","code":"0d3SKg000msNJQ1VEQ100EK6tE4SKg0E"}
+{"level":"info","ts":"2023-09-23T22:40:00.671+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"hbPhhEiw2F/qa0UooiAIKA==","errcode":0,"errmsg":""}}
+{"level":"error","ts":"2023-09-23T22:40:00.680+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:40:00.681+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"info","ts":"2023-09-23T22:40:06.926+0800","msg":"收到了前端发来的code","code":"0c3UKK0w3cFyo13JQj4w3IbnKh4UKK0O"}
+{"level":"info","ts":"2023-09-23T22:40:07.148+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"hbPhhEiw2F/qa0UooiAIKA==","errcode":0,"errmsg":""}}
+{"level":"error","ts":"2023-09-23T22:40:07.152+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:40:07.157+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"info","ts":"2023-09-23T22:41:47.819+0800","msg":"收到了前端发来的code","code":"0d3gRK0w3PHyo13Glx2w3O1yIE2gRK00"}
+{"level":"info","ts":"2023-09-23T22:41:48.087+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"oWxC7OYBtILQSLXoAWXc2g==","errcode":0,"errmsg":""}}
+{"level":"error","ts":"2023-09-23T22:41:48.092+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:41:48.094+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"info","ts":"2023-09-23T22:43:04.379+0800","msg":"收到了前端发来的code","code":"0d31Qc0w3d07p137P41w3hZ2SW21Qc0A"}
+{"level":"info","ts":"2023-09-23T22:43:04.629+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"oWxC7OYBtILQSLXoAWXc2g==","errcode":0,"errmsg":""}}
+{"level":"error","ts":"2023-09-23T22:43:16.615+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"info","ts":"2023-09-23T22:43:26.893+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-23T22:43:26.895+0800","msg":"成功获取活动和用户信息"}
+{"level":"error","ts":"2023-09-23T22:45:58.651+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"info","ts":"2023-09-23T22:46:02.135+0800","msg":"收到了前端发来的code","code":"0e3bYVZv3hgnp13Cod0w3qLBjc2bYVZu"}
+{"level":"info","ts":"2023-09-23T22:46:02.375+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"BNthnwIH9mWic3/TfYCDTg==","errcode":0,"errmsg":""}}
+{"level":"error","ts":"2023-09-23T22:46:02.383+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:46:02.383+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry '13cf11f7-82d6-57f2-a286-dc3132e72ed3' for key 'user_id'"}
+{"level":"error","ts":"2023-09-23T22:46:04.569+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"info","ts":"2023-09-23T22:47:40.053+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-23T22:47:40.055+0800","msg":"成功获取活动和用户信息"}
+{"level":"error","ts":"2023-09-23T22:47:45.005+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:48:45.434+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:49:11.294+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"info","ts":"2023-09-23T22:49:14.927+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-23T22:49:14.929+0800","msg":"成功获取活动和用户信息"}
+{"level":"error","ts":"2023-09-23T22:49:19.419+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:49:34.317+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:51:14.655+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"info","ts":"2023-09-23T22:51:18.091+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-23T22:51:18.093+0800","msg":"成功获取活动和用户信息"}
+{"level":"error","ts":"2023-09-23T22:51:24.712+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:52:33.044+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:52:57.288+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:53:09.387+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:53:12.725+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:56:13.366+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:57:22.306+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:57:44.152+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:57:56.540+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:58:24.347+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T22:59:50.038+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T23:00:17.052+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T23:00:20.288+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"info","ts":"2023-09-23T23:01:08.286+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-23T23:01:08.291+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-23T23:01:08.292+0800","msg":"Redis初始化成功"}
+{"level":"error","ts":"2023-09-23T23:01:13.395+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T23:02:29.412+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T23:02:32.676+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T23:02:51.864+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"error","ts":"2023-09-23T23:03:04.865+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"info","ts":"2023-09-23T23:03:54.793+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-23T23:03:54.797+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-23T23:03:54.800+0800","msg":"Redis初始化成功"}
+{"level":"error","ts":"2023-09-23T23:04:00.281+0800","msg":"GetUserInfoStatusByUserID 出问题","err":"record not found"}
+{"level":"info","ts":"2023-09-23T23:04:53.045+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-23T23:04:53.050+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-23T23:04:53.052+0800","msg":"Redis初始化成功"}
+{"level":"error","ts":"2023-09-23T23:24:26.378+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal number into Go struct field EditReq.level of type string"}
+{"level":"error","ts":"2023-09-23T23:25:46.129+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal number into Go struct field EditReq.level of type string"}
+{"level":"error","ts":"2023-09-23T23:28:29.204+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal number into Go struct field EditReq.level of type string"}
+{"level":"error","ts":"2023-09-23T23:31:42.736+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal number into Go struct field EditReq.level of type string"}
+{"level":"error","ts":"2023-09-23T23:31:51.463+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal number into Go struct field EditReq.level of type string"}
+{"level":"error","ts":"2023-09-23T23:32:34.025+0800","msg":"UserLoginHandler 反序列化失败","err":"json: cannot unmarshal number into Go struct field EditReq.level of type string"}
+{"level":"info","ts":"2023-09-23T23:46:28.920+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-23T23:46:28.925+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-23T23:46:28.927+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-23T23:49:18.965+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-23T23:49:18.969+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-23T23:49:18.971+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-23T23:53:10.851+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-23T23:53:10.855+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-23T23:53:10.856+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T00:00:20.777+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T00:00:20.782+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T00:00:20.784+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T00:07:25.595+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T00:07:25.599+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T00:07:25.602+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T00:29:54.323+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T00:29:54.327+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T00:29:54.330+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T00:53:44.561+0800","msg":"收到了前端发来的code","code":"0f3pR70003CbKQ1ao9200qLMAt0pR707"}
+{"level":"info","ts":"2023-09-24T00:53:44.833+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"38m7etpS9XaVi5X8ai4YJw==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-24T00:56:25.155+0800","msg":"收到了前端发来的code","code":"0f38tgGa1xh24G0RMUFa1NsoyB08tgG5"}
+{"level":"info","ts":"2023-09-24T00:56:25.419+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"AN2TcqSXZYGSCnYCW5CVig==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-24T00:57:19.122+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-24T00:57:19.123+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-24T00:59:40.956+0800","msg":"收到了前端发来的code","code":"0e3Tgp000hLTJQ106l30004ZiQ0Tgp0a"}
+{"level":"info","ts":"2023-09-24T00:59:41.188+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"TfD1e2xpMuMuMQxTiaeV8g==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-24T01:00:29.048+0800","msg":"收到了前端发来的code","code":"0b3rCIFa1xHA4G0ATBJa1KBdbv1rCIFy"}
+{"level":"info","ts":"2023-09-24T01:00:29.268+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16-xhyGCV6V0wT2WsirRG_pg","session_key":"cCJ1yatSq3PiUFq3JScw4w==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-24T01:01:03.738+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-24T01:01:03.739+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-24T01:01:22.442+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-24T01:01:22.444+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-24T01:45:01.259+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T01:45:01.261+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T01:45:01.262+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T12:50:28.257+0800","msg":"收到获取所有活动和用户信息的请求"}
+{"level":"info","ts":"2023-09-24T12:50:28.259+0800","msg":"成功获取活动和用户信息"}
+{"level":"info","ts":"2023-09-24T15:00:40.592+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T15:00:40.597+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T15:00:40.599+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T15:01:05.299+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T15:01:05.303+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T15:01:05.304+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T15:01:24.340+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T15:01:24.344+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T15:01:24.345+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T15:09:48.468+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T15:09:48.472+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T15:09:48.473+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T15:33:29.767+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T15:33:29.770+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T15:33:29.771+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T18:57:13.618+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T18:57:13.622+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T18:57:13.623+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T19:17:58.817+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T19:17:58.822+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T19:17:58.823+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T19:19:41.405+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T19:19:41.407+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T19:19:41.409+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T19:21:41.636+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T19:21:41.640+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T19:21:41.642+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T23:20:08.864+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T23:20:08.867+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T23:20:08.869+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T23:20:45.798+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T23:20:45.801+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T23:20:45.802+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T23:21:01.128+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T23:21:01.131+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T23:21:01.132+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-24T23:43:06.249+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-24T23:43:06.253+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-24T23:43:06.255+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-25T00:05:17.698+0800","msg":"收到了前端发来的code","code":"0f3Cs7000ppoKQ1p7W000CAmsd2Cs70p"}
+{"level":"info","ts":"2023-09-25T00:05:17.916+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16x8FnkKmeQcK-s0fACW7gF0","session_key":"vneEvfNeufDITzap6c1anA==","errcode":0,"errmsg":""}}
+{"level":"info","ts":"2023-09-25T00:19:38.210+0800","msg":"收到了前端发来的code","code":"0a33hl0w3PzXp13jat0w3fdvHY13hl0q"}
+{"level":"info","ts":"2023-09-25T00:19:38.421+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16x8FnkKmeQcK-s0fACW7gF0","session_key":"77HbRWpTvkWBlFXzaZEZ/w==","errcode":0,"errmsg":""}}
+{"level":"error","ts":"2023-09-25T00:19:38.424+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"error","ts":"2023-09-25T00:19:38.427+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"info","ts":"2023-09-25T00:21:20.389+0800","msg":"收到了前端发来的code","code":"0d3eup000MsEKQ1mMc300S4voF1eup0o"}
+{"level":"info","ts":"2023-09-25T00:21:20.650+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16x8FnkKmeQcK-s0fACW7gF0","session_key":"77HbRWpTvkWBlFXzaZEZ/w==","errcode":0,"errmsg":""}}
+{"level":"error","ts":"2023-09-25T00:21:20.654+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"error","ts":"2023-09-25T00:21:20.657+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"info","ts":"2023-09-25T00:21:32.041+0800","msg":"收到了前端发来的code","code":"0a3ANIFa1l0l5G01sAJa1Y15f32ANIFg"}
+{"level":"info","ts":"2023-09-25T00:21:32.211+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16x8FnkKmeQcK-s0fACW7gF0","session_key":"8ODTNWjLj9MU80IRnjIgRQ==","errcode":0,"errmsg":""}}
+{"level":"error","ts":"2023-09-25T00:21:32.216+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"error","ts":"2023-09-25T00:21:32.216+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"info","ts":"2023-09-25T00:31:50.416+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-25T00:31:50.419+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-25T00:31:50.420+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-25T00:32:05.475+0800","msg":"收到了前端发来的code","code":"0b3sosFa1NKh5G0jNvGa1WX5iV1sosF3"}
+{"level":"info","ts":"2023-09-25T00:32:05.719+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16x8FnkKmeQcK-s0fACW7gF0","session_key":"b0ON/LugF4GE55YnUSufYA==","errcode":0,"errmsg":""}}
+{"level":"error","ts":"2023-09-25T00:32:05.724+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"error","ts":"2023-09-25T00:32:05.724+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"error","ts":"2023-09-25T00:54:03.195+0800","msg":"UserLoginHandler 反序列化失败","err":"parsing time \"\\\"\\\"\" as \"\\\"2006-01-02T15:04:05Z07:00\\\"\": cannot parse \"\\\"\" as \"2006\""}
+{"level":"error","ts":"2023-09-25T00:56:43.412+0800","msg":"UserLoginHandler 反序列化失败","err":"parsing time \"\\\"\\\"\" as \"\\\"2006-01-02T15:04:05Z07:00\\\"\": cannot parse \"\\\"\" as \"2006\""}
+{"level":"info","ts":"2023-09-25T01:29:11.467+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-25T01:29:11.470+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-25T01:29:11.473+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-25T03:24:54.290+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-25T03:24:54.293+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-25T03:24:54.294+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-25T04:58:06.758+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-25T04:58:06.760+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-25T04:58:06.762+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-25T20:40:57.238+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-25T20:40:57.241+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-25T20:40:57.243+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-25T21:17:09.837+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-25T21:17:09.839+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-25T21:17:09.840+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-25T21:19:08.760+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-25T21:19:08.765+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-25T21:19:08.766+0800","msg":"Redis初始化成功"}
+{"level":"info","ts":"2023-09-25T21:53:17.435+0800","msg":"收到了前端发来的code","code":"0a3zRXZv3m55q13nzS0w3CLFeO3zRXZD"}
+{"level":"info","ts":"2023-09-25T21:53:17.713+0800","msg":"成功拿到 OpenID 和 sessionKey！","loginResponse":{"openid":"oLct16x8FnkKmeQcK-s0fACW7gF0","session_key":"Vm5X6gSYT+gwUkUeU37yPg==","errcode":0,"errmsg":""}}
+{"level":"error","ts":"2023-09-25T21:53:17.716+0800","msg":"InsertUserInfoPart 出问题","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"error","ts":"2023-09-25T21:53:17.717+0800","msg":"向 Redis 里存token 和 userid 出问题了","err":"Error 1062 (23000): Duplicate entry 'befc0fc9-9129-5805-81b1-15cbe3fca157' for key 'user_id'"}
+{"level":"info","ts":"2023-09-26T09:04:58.209+0800","msg":"Zap日志框架初始化成功"}
+{"level":"info","ts":"2023-09-26T09:04:58.211+0800","msg":"DB初始化成功"}
+{"level":"info","ts":"2023-09-26T09:04:58.212+0800","msg":"Redis初始化成功"}

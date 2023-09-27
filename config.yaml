@@ -1,5 +1,5 @@
 mysql:
-  host: 43.136.15.31
+  host: "43.136.15.31"
   port: 3306
   username: bravo
   password: Root6666
